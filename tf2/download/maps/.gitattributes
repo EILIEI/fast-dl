@@ -1,0 +1,4 @@
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.bsp
+got[[:space:]]add[[:space:]]trade_amelia_v5.bsp
+git[[:space:]]lfs[[:space:]]track[[:space:]] filter=lfs diff=lfs merge=lfs -text
+*.bsp filter=lfs diff=lfs merge=lfs -text
